@@ -1,0 +1,1 @@
+# maven_mutli_project_example
