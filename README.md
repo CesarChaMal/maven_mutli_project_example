@@ -7,9 +7,9 @@ multiproject_folder
 |
 +-----app1
 |       |
-|      +--pom.xml
-|      |
-|      +--src
+|       +--pom.xml
+|       |
+|       +--src
 |           |
 |           +--main
 |               |
